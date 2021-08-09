@@ -1,0 +1,6 @@
+.nav-pills .nav-link {
+    border-radius: .25rem;
+    background-color: darkgray;
+    margin: 20px;
+    color: white;
+}
